@@ -1,8 +1,8 @@
 from sklearn import datasets
+import math
 
-digits = datasets.load_digits()
+def main():
+	a=1
 
-# print(house_prices.data)
-# print(house_prices.target)
 
-print(digits.images[4])
+main()
